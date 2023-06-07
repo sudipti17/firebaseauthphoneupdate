@@ -112,3 +112,5 @@ const Dummy = () => {
 export default Dummy
 
 const styles = StyleSheet.create({})
+
+// end
